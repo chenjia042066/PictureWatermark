@@ -179,6 +179,7 @@
 				TargetAttributes = {
 					DC580D3A1B6F1133000660BC = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = CAHF36ZVZU;
 					};
 					DC580D531B6F1133000660BC = {
 						CreatedOnToolsVersion = 6.4;
@@ -191,6 +192,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -361,6 +363,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CAHF36ZVZU;
 				INFOPLIST_FILE = PictureWatermark/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -372,6 +375,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CAHF36ZVZU;
 				INFOPLIST_FILE = PictureWatermark/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -432,6 +436,7 @@
 				DC580D601B6F1133000660BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DC580D611B6F1133000660BC /* Build configuration list for PBXNativeTarget "PictureWatermarkTests" */ = {
 			isa = XCConfigurationList;
@@ -440,6 +445,7 @@
 				DC580D631B6F1133000660BC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
